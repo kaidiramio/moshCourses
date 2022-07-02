@@ -13,4 +13,4 @@ React, Java, Data Structures and Algos
 
 ## Reflections:
 
-Mosh has been a solid addition to my learning and that's what I have been really honing in on to work on my fundamentals
+Mosh has been a solid addition to my learning and that's what I have been really honing in on to work on my fundamentals.
