@@ -5,7 +5,7 @@ These are courses via "Mosh coding made simple" that I've either completed or am
 
 ## Completed Courses: 
 
-JavaScript, Node.js, 
+JavaScript, Node.js 
 
 ## Working on:
 
